@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "Which city generated the highest revenue?",
+    "expected_city": "Delhi",
+    "expected_value": 190000.0
+  },
+  {
+    "id": 2,
+    "question": "Which city generated the lowest revenue?",
+    "expected_city": "Bangalore",
+    "expected_value": 80000.0
+  },
+  {
+    "id": 3,
+    "question": "What is the total revenue?",
+    "expected_city": null,
+    "expected_value": 425000.0
+  }
+]
